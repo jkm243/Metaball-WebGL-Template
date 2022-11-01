@@ -3,8 +3,8 @@ A WebGl tested with browser, liquid balls animated in background
 
 ## Documentation & Resoources
 
-[Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[CodePen - Alfons Nilson]([https://developer.mozilla.org/fr/docs/Web/JavaScript](https://codepen.io/TC5550/pen/WNNWoaO))
+* [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+* [CodePen - Alfons Nilson]([https://developer.mozilla.org/fr/docs/Web/JavaScript](https://codepen.io/TC5550/pen/WNNWoaO))
 
 ## Screenshots
 
