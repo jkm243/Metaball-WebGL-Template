@@ -7,7 +7,7 @@ A WebGl tested with browser, liquid balls animated in background
 
 ## Screenshots
 
-![App Screenshot](https://github.com/jkm243/Metaball-WebGL-Template.git/blob/master/capture.jpg)
+![App Screenshot](https://github.com/jkm243/Metaball-WebGL-Template/blob/40f2d67be47d172e511328bf7615caf0d9dbc891/image.png)
 
 ## Tech Stack
 
